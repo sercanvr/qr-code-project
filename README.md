@@ -1,3 +1,2 @@
 ## UI Overview
-Projeye ait arayüz ekran görüntüleri:
-![UI Screenshot](screenshots/ui-overview.png)
+![UI Screenshot](https://prnt.sc/D_jU_GWprMzB)
